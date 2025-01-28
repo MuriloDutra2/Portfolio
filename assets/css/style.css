@@ -1,0 +1,19 @@
+@import url(variavel.css);
+
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+/* NAVBAR ESTILIZAÇÃO */
+
+li, a, button {
+    font-family: var(--ff-ubuntu);
+    font-weight: 500;
+    font-size: 18px;
+    color: var(--branco);
+}
+
+li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
