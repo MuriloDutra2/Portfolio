@@ -34,7 +34,7 @@ VARIAVEIS GLOBAIS
         --branco: #F0F0F2;
         --vinho: #73242A;
         --cinza: #ababab; 
-        --preto1: #0D0D0D;
+        --preto1: #000;
 
      
 
@@ -50,6 +50,7 @@ VARIAVEIS GLOBAIS
         --fs-md: 17px;
         --fs-sm: 14px;
         --fs-x-sm: 12px;
+        --fs-x-header: 40px
 
         --fw-7: 700;
         --fw-6: 600;
@@ -59,7 +60,7 @@ VARIAVEIS GLOBAIS
         Spacing
         */
 
-        --px: 120px /*padding left & padding right*/
+        --px: 100px /*padding left & padding right*/
 
       }
       

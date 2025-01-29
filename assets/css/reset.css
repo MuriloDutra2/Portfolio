@@ -1,5 +1,7 @@
 /*RESET CSS*/
 
+@import url(variavel.css);
+
 
 /* REMOVER MARGEM E PADDING CRIADA*/
 
@@ -24,7 +26,7 @@ h1, h2, h3, h4, h5, h6 {
 /*backgorund*/
 
 body {
-    background: var(--rich-black-fogra-29);
+    background: var(--preto1);
     color: var(--off-white);
     -webkit-font-smoothing: antialiased;
 }
