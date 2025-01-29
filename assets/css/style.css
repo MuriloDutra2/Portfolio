@@ -4,16 +4,35 @@
 
 /* NAVBAR ESTILIZAÇÃO */
 
-li, a, button {
-    font-family: var(--ff-ubuntu);
-    font-weight: 500;
-    font-size: 18px;
-    color: var(--branco);
-}
-
-li {
+header {
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
     align-items: center;
+    padding: 20px;
+    background: #0D0D0D; /* Cor escura para dar um visual profissional */
+    color: white;
 }
+
+.logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 100px;
+    
+
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+
+
 
