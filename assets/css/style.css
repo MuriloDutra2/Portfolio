@@ -6,8 +6,11 @@
 
 
 nav,
-.banner {
+.banner,
+.projetos {
     padding: 0 var(--px);
+
+
 }
 
 
@@ -61,9 +64,7 @@ header {
 }
 
 
-.logo {
 
-}
 
 .texto {
     width: 500px;
@@ -81,3 +82,11 @@ header {
 }
 
 
+
+/*PROJETOS/////////////////////          */
+
+.projetos {
+    
+    
+    background:linear-gradient(#000 , #0455bf) ;
+}
