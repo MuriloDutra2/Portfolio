@@ -85,7 +85,7 @@ header {
 .projetos {
     
     height: auto;
-    background:linear-gradient(#000 , #0455bf) ;
+    background:linear-gradient(#000 , #0455bf ) ;
     width: auto;
     display: flex;
     align-items: flex-start;
@@ -101,7 +101,7 @@ header {
 
 .imagemProjeto {
  width: 500px;
- height: 235px;
+ height: 250px;
  border-radius: 40px;
 }
 
@@ -118,7 +118,6 @@ header {
     border-radius: 40px;
     width: 450px;
     height: 254px;
-    background: #171717;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -131,7 +130,7 @@ header {
   .card .content {
     border-radius: 40px;
     background: #171717;
-    width: 496px;
+    width: 489px;
     height: 250px;
     z-index: 1;
     padding: 20px;
@@ -164,7 +163,7 @@ header {
     position: absolute;
     display: block;
     width: 80px;
-    height: 560px;
+    height: 550px;
     background: linear-gradient(#0455bf, #0455bf);
     transition: opacity 300ms;
     animation: rotation_9018 8080ms infinite linear;
